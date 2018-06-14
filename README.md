@@ -1,4 +1,4 @@
-# gae-context
+# appengine-context
 
 Http middleware to create an AppEngine context from the request
 and make it easy to retrieve it further down the call stack by
